@@ -12,8 +12,15 @@ body {
 
 .download {
   font-size: 16px;
-  color: aquamarine !important;
   font-style: underline;
+}
+
+.download a {
+  color: aquamarine;
+}
+
+a:visited {
+  color: aquamarine;
 }
 
 #b2-heading, .ending p {
